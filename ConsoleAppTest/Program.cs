@@ -11,6 +11,7 @@ namespace ConsoleAppTest
         static void Main(string[] args)
         {
             Console.WriteLine("This is a test console app");
+            Console.WriteLine("Adding one more line");
             Console.ReadLine();
         }
     }
